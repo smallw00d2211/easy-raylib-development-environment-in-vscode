@@ -14,7 +14,7 @@
                 "args": [
                     "RAYLIB_PATH=C:/raylib/raylib",
                     "PROJECT_NAME=${fileBasenameNoExtension}",
-                    "OBJS=*.cpp src/**/*.cpp src/**/*.h",
+                    "OBJS=*.cpp src/**/*.cpp",
                     "BUILD_MODE=DEBUG"
                 ]
             },
@@ -35,7 +35,7 @@
                 "args": [
                     "RAYLIB_PATH=C:/raylib/raylib",
                     "PROJECT_NAME=${fileBasenameNoExtension}",
-                    "OBJS=*.cpp src/**/*.cpp src/**/*.h",
+                    "OBJS=*.cpp src/**/*.cpp",
                 ]
             },
             "problemMatcher": [
